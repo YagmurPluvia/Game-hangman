@@ -1,0 +1,3 @@
+Istanbul,Sehir
+Fasulye,Bitki
+Ankara,Sehir
